@@ -26,18 +26,13 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 
 ## 🧩 Core Expertise
 
-### **Backend Engineering**
-- Java 17+ / Spring Boot  
-- Microservices & distributed systems  
-- API design & fault tolerance  
-- Reactive & asynchronous flows  
+### **Backend Engineering**                                                      ### **DevOps & Infrastructure**
+- Java 17+ / Spring Boot                                                         - Docker, Docker Compose, Kubernetes  
+- Microservices & distributed systems                                            - CI/CD pipelines (GitLab CI, GitHub Actions)  
+- API design & fault tolerance                                                   - IAM / Security (Keycloak, OAuth2, OIDC)
+- Reactive & asynchronous flows                                              
 - DDD, CQRS, clean & hexagonal architecture
 
-### **DevOps & Infrastructure**
-- Docker, Docker Compose, Kubernetes  
-- CI/CD pipelines (GitLab CI, GitHub Actions)  
-- Observability (Grafana, Prometheus, ELK)  
-- IAM / Security (Keycloak, OAuth2, OIDC)
 
 ### **Architecture & System Design**
 - Event-driven architectures  
@@ -91,19 +86,6 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 </tr>
 </table>
 
----
-
-## 🛰️ Dynamic Metadata (Auto-updated)
-
-###  Latest Activities  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-###  Latest Updated Repositories  
-<!--START_SECTION:recent_repos-->
-<!--END_SECTION:recent_repos-->
-
----
 
 ## 📫 Contact
 
