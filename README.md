@@ -59,8 +59,6 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ---
 
 ## 📊 GitHub Metadata
-## 📊 GitHub Metadata
-
 <table>
 <tr>
 <td align="center">
@@ -104,9 +102,6 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ###  Latest Updated Repositories  
 <!--START_SECTION:recent_repos-->
 <!--END_SECTION:recent_repos-->
-
-###  Profile Summary Card  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight)
 
 ---
 
