@@ -17,7 +17,6 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-lightgrey)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Keycloak](https://img.shields.io/badge/Keycloak-IAM-purple)
 ![CI/CD](https://img.shields.io/badge/Automation-CI%2FCD-yellow)
 ![Distributed Systems](https://img.shields.io/badge/Expertise-Distributed%20Systems-orange)
@@ -45,7 +44,7 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 <td width="50%" valign="top">
 
 ### **DevOps & Infrastructure**
-- Docker, Docker Compose, Kubernetes  
+- Docker, Docker Compose  
 - CI/CD pipelines (GitLab CI, GitHub Actions)  
 - Observability & monitoring  
 - IAM / Security (Keycloak, OAuth2, OIDC)
@@ -70,7 +69,7 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 
 **Languages:** Java, SQL, Bash, Python  
 **Frameworks:** Spring Boot, Spring Cloud, Axon, Liquibase  
-**DevOps:** Docker, Kubernetes, GitLab CI, GitHub Actions, Nexus  
+**DevOps:** Docker, GitHub Actions, Nexus  
 **Messaging:** Kafka, RabbitMQ  
 **Auth:** Keycloak, OAuth2, JWT  
 **Observability:** Prometheus, Grafana, ELK  
