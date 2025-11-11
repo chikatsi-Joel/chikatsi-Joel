@@ -140,9 +140,9 @@
 </tr>
 </table>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight" alt="Contribution Graph" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="45%"/>
+<br/>
 
 </div>
 
