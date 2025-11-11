@@ -82,7 +82,7 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 <!--END_SECTION:recent_repos-->
 
 ### ✅ Profile Summary Card  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gradi)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel)
 
 ---
 
