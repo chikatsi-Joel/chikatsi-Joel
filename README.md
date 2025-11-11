@@ -104,7 +104,7 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 <td align="center">
 
 ### 🛰️ Profile Summary Card  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight)
 
 </td>
 </tr>
