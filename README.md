@@ -125,11 +125,39 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=chikatsi-Joel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="Contribution Streak" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chikatsi-Joel&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chikatsi-Joel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="Contribution Streak" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight" alt="Contribution Graph" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=chikatsi-Joel&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Contributed Repos" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
