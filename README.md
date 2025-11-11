@@ -1,125 +1,173 @@
 <!-- meta:author=Gradi -->
-<!-- meta:role=Ingénieur Logiciel Backend & DevOps Engineer -->
-<!-- meta:skills=Java,Spring Boot,Microservices,DevOps,Keycloak,CI/CD,Distributed Systems -->
-<!-- meta:version=1.0 -->
-<!-- meta:generated=auto -->
+<!-- meta:role=Backend Software Engineer & DevOps Specialist -->
+<!-- meta:skills=Java,Spring Boot,Microservices,DevOps,Keycloak,CI/CD,Distributed Systems,MLOps -->
+<!-- meta:version=2.0 -->
+<!-- meta:generated=enhanced -->
 
-# 👋 Hi, I'm Gradi  
-### Backend Developper | Mlops Practitioner | Software Architect  
+<div align="center">
 
-Building high-performance backend systems, secure APIs, and production-grade architectures.
+# 👋 Hi, I'm Gradi
 
----
+### Backend Developer • MLOps Practitioner • Software Architect
 
-## 🏷️ Tech Badges
+*Building high-performance backend systems, secure APIs, and production-grade architectures*
 
-![Java](https://img.shields.io/badge/Java-17+-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue)
-![Docker](https://img.shields.io/badge/Docker-DevOps-lightgrey)
-![Keycloak](https://img.shields.io/badge/Keycloak-IAM-purple)
-![CI/CD](https://img.shields.io/badge/Automation-CI%2FCD-yellow)
-![Distributed Systems](https://img.shields.io/badge/Expertise-Distributed%20Systems-orange)
+[![Email](https://img.shields.io/badge/Email-kappachikatsi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kappachikatsi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-chikatsi--Joel-181717?style=for-the-badge&logo=github)](https://github.com/chikatsi-Joel)
+
+</div>
 
 ---
 
-## 🧩 Core Expertise
+## 🎯 Core Expertise
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<!-- Colonne Backend Engineering -->
-<td width="50%" valign="top">
-
-### **Backend Engineering**
-- Java 17+ / Spring Boot  
-- Microservices & distributed systems  
-- API design & fault tolerance  
-- Reactive & asynchronous flows  
-- DDD, CQRS, clean & hexagonal architecture  
-
-</td>
-
-<!-- Colonne DevOps & Infrastructure -->
-<td width="50%" valign="top">
-
-### **DevOps & Infrastructure**
-- Docker, Docker Compose  
-- CI/CD pipelines (GitLab CI, GitHub Actions)  
-- Observability & monitoring  
-- IAM / Security (Keycloak, OAuth2, OIDC)
+### ⚙️ Backend Engineering
+- **Languages:** Java 17+, Python, SQL
+- **Frameworks:** Spring Boot, Spring Cloud
+- **Architecture:** Microservices, DDD, CQRS
+- **Patterns:** Hexagonal, Clean Architecture
+- **Protocols:** REST, gRPC, WebSocket
+- **Reactive:** Async flows, event-driven design
 
 </td>
+<td width="33%" valign="top">
 
+### 🚀 DevOps & Infrastructure
+- **Containerization:** Docker, Docker Compose
+- **CI/CD:** GitLab CI, GitHub Actions
+- **Orchestration:** Kubernetes basics
+- **Registry:** Nexus, Docker Hub
+- **Monitoring:** Prometheus, Grafana, ELK
+- **IaC:** Infrastructure as Code practices
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Security & Integration
+- **IAM:** Keycloak, OAuth2, OIDC
+- **Auth:** JWT, Spring Security
+- **API Gateway:** Kong, Spring Cloud Gateway
+- **Messaging:** Kafka, RabbitMQ
+- **Database:** PostgreSQL, MongoDB
+- **Versioning:** Liquibase, Flyway
+
+</td>
 </tr>
 </table>
 
 ---
 
-### **Architecture & System Design**
-- Event-driven architectures  
-- Modular monoliths & service decomposition  
-- Scaling strategies & reliability engineering  
-- IAM integration & secure backend communication  
- 
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Messaging & Data
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Security & Observability
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
-## 🔧 Technical Stack
+## 🏗️ Architecture & System Design
 
-**Languages:** Java, SQL, Bash, Python  
-**Frameworks:** Spring Boot, Spring Cloud, Axon, Liquibase  
-**DevOps:** Docker, GitHub Actions, Nexus  
-**Messaging:** Kafka, RabbitMQ  
-**Auth:** Keycloak, OAuth2, JWT  
-**Observability:** Prometheus, Grafana, ELK  
-
----
-
-## 📊 GitHub Metadata
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 📈 Contribution Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight)
-
-</td>
-<td align="center">
-
-### 🧠 Languages Overview  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight)
+#### **Distributed Systems**
+- Microservices orchestration
+- Service mesh patterns
+- Inter-service communication
+- Distributed transactions (Saga)
+- Event sourcing with Axon
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td align="center">
-
-### 🔥 Contribution Streak  
-![Streak](https://streak-stats.demolab.com?user=chikatsi-Joel&theme=tokyonight)
-
-</td>
-<td align="center">
-
-### 🛰️ Profile Summary Card  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight)
+#### **Reliability Engineering**
+- Circuit breakers & fault tolerance
+- Rate limiting & backpressure
+- Caching strategies (Redis)
+- Load balancing techniques
+- Health checks & self-healing
 
 </td>
 </tr>
 </table>
 
+---
 
-## 📫 Contact
+## 📊 GitHub Analytics
 
-Email: *kappachikatsi@gmail.com*  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=chikatsi-Joel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9" alt="Contribution Streak" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chikatsi-Joel&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="49%"/>
+
+</div>
 
 ---
 
-## ✨ Guiding Principle
+## 💡 Philosophy
 
-> *"Precision in design. Consistency in execution."*
+<div align="center">
+
+> *"Precision in design. Consistency in execution. Excellence in delivery."*
+
+### 🎯 Key Principles
+**Scalability** • **Security** • **Simplicity** • **Sustainability**
+
+</div>
 
 ---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing backend architecture, distributed systems, and DevOps best practices.
+
+**📧 Email:** [kappachikatsi@gmail.com](mailto:kappachikatsi@gmail.com)
+
+*Open to collaboration, consulting, and innovative projects*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=chikatsi-Joel&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+*Last Updated: November 2025*
+
+</div>
 
 <!-- meta:end -->
