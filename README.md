@@ -61,28 +61,28 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ## 📊 GitHub Metadata
 
 ### **📈 Contributions Overview**
-![Stats](https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight)
 
 ### **🧠 Technologies Overview**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight)
 
 ### **🔥 Activity Streak**
-![Streak](https://streak-stats.demolab.com?user=chikatsi-Joel)
+![Streak](https://streak-stats.demolab.com?user=chikatsi-Joel&theme=tokyonight)
 
 ---
 
 ## 🛰️ Dynamic Metadata (Auto-updated)
 
-### ✅ Latest Activities  
+###  Latest Activities  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### ✅ Latest Updated Repositories  
+###  Latest Updated Repositories  
 <!--START_SECTION:recent_repos-->
 <!--END_SECTION:recent_repos-->
 
-### ✅ Profile Summary Card  
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel)
+###  Profile Summary Card  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=tokyonight)
 
 ---
 
