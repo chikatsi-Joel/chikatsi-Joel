@@ -61,13 +61,13 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ## 📊 GitHub Metadata
 
 ### **📈 Contributions Overview**
-![Stats](https://github-readme-stats.vercel.app/api?username=Gradi&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=default)
 
 ### **🧠 Technologies Overview**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gradi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact)
 
 ### **🔥 Activity Streak**
-![Streak](https://streak-stats.demolab.com?user=Gradi)
+![Streak](https://streak-stats.demolab.com?user=chikatsi-Joel)
 
 ---
 
