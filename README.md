@@ -59,15 +59,39 @@ Building high-performance backend systems, secure APIs, and production-grade arc
 ---
 
 ## 📊 GitHub Metadata
+## 📊 GitHub Metadata
 
-### **📈 Contributions Overview**
+<table>
+<tr>
+<td align="center">
+
+### 📈 Contribution Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=chikatsi-Joel&show_icons=true&theme=tokyonight)
 
-### **🧠 Technologies Overview**
+</td>
+<td align="center">
+
+### 🧠 Languages Overview  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikatsi-Joel&layout=compact&theme=tokyonight)
 
-### **🔥 Activity Streak**
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔥 Contribution Streak  
 ![Streak](https://streak-stats.demolab.com?user=chikatsi-Joel&theme=tokyonight)
+
+</td>
+<td align="center">
+
+### 🛰️ Profile Summary Card  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chikatsi-Joel&theme=github_dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
